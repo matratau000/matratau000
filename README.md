@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Taulant Matraku** (He/Him), an **AI Software Engineer** with a passion for developing innovative AI business solutions. My expertise includes working with Langchain, ASR, CrewAI, and Ollama to create impactful AI applications.
+I'm **Taulant Matraku**, an **AI Software Engineer** with a passion for developing innovative AI business solutions. My expertise includes working with Langchain, ASR, CrewAI, and Ollama to create impactful AI applications.
 
 ### About Me
 As a first-generation college student, I've pursued every learning opportunity with dedication and enthusiasm. My journey at the University of Wisconsin-Green Bay, where I majored in Computer Science, has been instrumental in shaping my technical skills and problem-solving abilities. My goal is to apply my passion for learning through mastery and craftsmanship of skills to create a healthier and more efficient world.
