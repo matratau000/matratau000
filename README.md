@@ -47,6 +47,3 @@ Feel free to reach out if you're interested in collaborating on AI projects or h
 
 #AI #MachineLearning #DataScience #EdTech #AppDevelopment #Innovation #EducationMatters
 
----
-
-This formatting should make your README more organized and visually appealing.
