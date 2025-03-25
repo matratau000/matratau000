@@ -1,49 +1,81 @@
-## Hi there 👋
+# 👋 Hi there, I'm Taulant Matraku
 
-I'm **Taulant Matraku**, an **AI Software Engineer** with a passion for developing innovative AI business solutions. My expertise includes working with Langchain, ASR, CrewAI, and Ollama to create impactful AI applications.
-
-### About Me
-As a first-generation college student, I've pursued every learning opportunity with dedication and enthusiasm. My journey at the University of Wisconsin-Green Bay, where I majored in Computer Science, has been instrumental in shaping my technical skills and problem-solving abilities. My goal is to apply my passion for learning through mastery and craftsmanship of skills to create a healthier and more efficient world.
-
-### What Drives Me
-I am driven by a relentless desire to solve problems and make things easier. My work focuses on integrating existing AI tools and technologies into business workflows to enhance operational efficiency. I believe that the key to innovation lies in constantly exploring new challenges and acquiring new concepts.
-
-### My Experience
-**AI Engineer at AnSer – Answering Services and Call Centers** (May 2024 - Present)
-- Integrating and customizing AI tools to solve complex business problems.
-- Leveraging large datasets for decision-making and process improvement.
-- Collaborating with cross-functional teams to align AI solutions with business goals.
-
-**AI Intern at AnSer – Answering Services and Call Centers** (Dec 2023 - May 2024)
-- Developed speech-to-text solutions for audio podcasts.
-- Improved transcription accuracy and text readability through advanced processing techniques.
-
-**National Dedicated Account Advisor at Imperial Supplies** (Jun 2022 - Oct 2023)
-- Built strong customer relationships and provided tailored solutions to enhance operational efficiency.
-
-**Personal Trainer at MKEFIT and Innovative Health and Fitness**
-- Designed custom fitness programs and guided clients to achieve their health goals.
-
-### Projects and Highlights
-**Xray Analysis for Pneumonia Detection**
-- Experimented with machine learning algorithms to analyze X-rays for signs of pneumonia.
-- Tools used: TensorFlow, ResNet50, OpenCV.
-- [GitHub Link](https://lnkd.in/gyW2Q2Hc)
-
-**Redefining Math Education with an iOS App**
-- Developed an engaging math challenge app with personalized difficulty levels, interactive tutorials, and multiplayer challenges using Swift and Xcode.
-
-### Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/taulant-matraku-4a69a5180)
-- [GitHub](https://github.com/matratau000)
-
-Feel free to reach out if you're interested in collaborating on AI projects or have any questions about my work. Always eager to learn and iterate!
+🔧 **AI Software Engineer** | 🧠 Passionate about Real-World AI, LLMs, and ASR  
+🌎 Based in Green Bay, Wisconsin  
+🌐 [matraku.dev](https://www.matraku.dev) | 🔗 [LinkedIn](https://www.linkedin.com/in/taulant-matraku-4a69a5180) | 💻 [GitHub](https://github.com/matratau000)
 
 ---
 
-🔍 Dive into my exploration project: **Xray Analysis for Pneumonia Detection!**  
-🚀 Sneak Peek: **Redefining Math Education with Our Upcoming iOS App 🧠📲**  
-🎓 Proud **First-Generation College Graduate** from the University of Wisconsin-Green Bay  
+## 🚀 Current Focus
 
-#AI #MachineLearning #DataScience #EdTech #AppDevelopment #Innovation #EducationMatters
+> **"Bridging emergency services with AI."**  
+I'm currently building an open-source **DBMS for EMS and emergency techs** in Sheboygan, WI. I’m focused on integrating **LLMs**, **automatic speech recognition**, and **agentic workflows** into real-world applications.
 
+---
+
+## 📂 Featured Public Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🔍 prometheus](https://github.com/matratau000/prometheus) | AI-driven alert system prototype | `Python`, `Langchain`, `OpenAI`, `Agentic flows` |
+| [🧪 Ollama Prompt Validator](https://github.com/matratau000/Ollama-test-validate-prompts-across-multiple-models) | Compare LLMs and analyze prompt responses | `Python`, `Ollama`, `Multi-model` |
+| [📊 robinhood-monitoring](https://github.com/matratau000/robinhood-monitoring) | Monitor and alert on Robinhood account events | `Python`, `API integrations`, `CLI` |
+
+> 🔐 Want to see more? Some of my advanced work is private due to ongoing deployments. Reach out if you’d like to collaborate.
+
+---
+
+## 🧠 About Me
+
+As a **first-generation college graduate** from the University of Wisconsin-Green Bay (CS Major), I’m a lifelong learner and builder at heart.
+
+I thrive on solving **complex business problems** using AI — from transcription pipelines and healthcare apps to AI agents and voice interfaces.
+
+---
+
+## 👨‍💻 Experience Snapshot
+
+### **AnSer – AI Software Engineer**  
+*May 2024 – Present*
+- Built LLM-integrated tools to assist call center reps and emergency techs.
+- Deployed ASR systems and voice-to-action interfaces.
+
+### **AnSer – AI Intern**  
+*Dec 2023 – May 2024*
+- Created podcast-to-text automation tools using Whisper and post-processing pipelines.
+
+### **Imperial Supplies – National Dedicated Advisor**  
+*Jun 2022 – Oct 2023*
+- Delivered logistics insights and customized ops solutions for B2B clients.
+
+---
+
+<details>
+  <summary>📸 Side Projects & Passion Work</summary>
+
+- **Xray Pneumonia Detection**  
+  ML project using TensorFlow + ResNet50  
+  → [See Repo](https://lnkd.in/gyW2Q2Hc)
+
+- **iOS Math Learning App**  
+  Game-based math education using Swift/Xcode with multiplayer support
+
+- **Custom Fitness Coaching System**  
+  From my time as a personal trainer — automated intake + goal tracking
+
+</details>
+
+---
+
+## 📫 Let's Connect
+
+Got a project or idea you'd like to explore?  
+Reach out or follow along on my journey!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/taulant-matraku-4a69a5180)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/matratau000)
+[![Website](https://img.shields.io/badge/Portfolio-matraku.dev-ff69b4?style=for-the-badge)](https://www.matraku.dev)
+
+---
+
+🧠 *“Code is never really done – it's always learning, just like us.”*  
