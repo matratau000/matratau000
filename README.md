@@ -1,16 +1,16 @@
 # Taulant Matraku
 
-**AI Software Engineer**  
-🔍 Real-World AI Applications · LLM Integrations · Speech Interfaces · Agent Systems  
+**AI Engineering Lead**  
+🔍 AI Agents · Autonomous Systems · Voice AI · Business Automation · LLM Integrations  
 📍 Green Bay, Wisconsin | 🌐 [matraku.dev](https://www.matraku.dev)
 
 ---
 
 ## About
 
-I’m an engineer passionate about solving operational inefficiencies using AI, particularly in the domains of **language models**, **speech processing**, and **emergency systems**. As a **first-generation college graduate** in Computer Science, I’ve worked across both startup environments and high-impact public services.
+I'm an **AI Engineering Lead** specializing in developing intelligent solutions for businesses, with deep expertise in **AI Agents**, **Voice AI**, **Autonomous QA Systems**, and **AI-driven Automation**. Leveraging state-of-the-art language models and speech technologies, I design and deploy autonomous systems to enhance business efficiency and operational excellence.
 
-Currently, I’m building an open-source **AI-first DBMS and reporting engine** for EMS teams in Sheboygan, WI, with a focus on integrating **LLM-driven agents**, **ASR pipelines**, and **custom AI services** into real-world workflows.
+As a first-generation college graduate in **Computer Science with a Software Engineering focus**, I’m driven by innovation and the continuous integration of advanced AI tools into practical business environments.
 
 ---
 
@@ -18,40 +18,35 @@ Currently, I’m building an open-source **AI-first DBMS and reporting engine** 
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**prometheus**](https://github.com/matratau000/prometheus) | An AI-powered event-driven alerting system using LangChain and custom agents | Python, LangChain, OpenAI |
-| [**Ollama Prompt Validator**](https://github.com/matratau000/Ollama-test-validate-prompts-across-multiple-models) | Validate prompts across multiple models and use AI to assess response quality | Python, Ollama |
-| [**robinhood-monitoring**](https://github.com/matratau000/robinhood-monitoring) | Monitor Robinhood transactions and send real-time alerts | Python, API, CLI |
+| [**prometheus**](https://github.com/matratau000/prometheus) | Event-driven autonomous alerting system utilizing AI agents | Python, LangChain, OpenAI |
+| [**Ollama Prompt Validator**](https://github.com/matratau000/Ollama-test-validate-prompts-across-multiple-models) | Automated validation of prompts across multiple language models | Python, Ollama, Automation |
+| [**robinhood-monitoring**](https://github.com/matratau000/robinhood-monitoring) | Real-time financial event monitoring and alerting | Python, API, CLI |
 
-> 📌 Most of my work is private or under active deployment. Contact me if you'd like to learn more.
+> 📌 Additional work involving autonomous agents and AI-driven business automation is currently private. Reach out directly for collaboration or inquiries.
 
 ---
 
 ## Professional Experience
 
-### AnSer | **AI Software Engineer**  
+### AnSer | **AI Engineering Lead**  
 *May 2024 – Present*  
-- Developed LLM-based call center tools to improve triage and escalation.
-- Built real-time speech-to-text solutions and automated call summaries.
-- Deployed multi-agent systems to streamline internal communication pipelines.
+- Leading development and deployment of autonomous QA systems.
+- Building and integrating AI agents and voice automation into business operations.
+- Implementing advanced LLM-driven solutions for enterprise automation.
 
-### AnSer | **AI Intern**  
+### AnSer | **AI Intern → Engineer**  
 *Dec 2023 – May 2024*  
-- Designed and deployed transcription workflows using Whisper + NLP refinement.
-- Focused on clean output for use in health reporting, podcast archiving, and call review.
-
-### Imperial Supplies | **Dedicated Account Advisor**  
-*Jun 2022 – Oct 2023*  
-- Supported national logistics accounts and improved process efficiency using internal tooling.
+- Developed speech-to-text and NLP-driven solutions for automated workflows.
+- Engineered AI solutions focused on operational efficiency and accuracy.
 
 ---
 
-## Skills & Tooling
+## Skills & Expertise
 
-- **Languages:** Python, TypeScript, Swift, SQL  
-- **AI/ML:** OpenAI APIs, Ollama, LangChain, CrewAI, Whisper, ASR  
-- **DevOps:** Docker, GPU-based development, API integrations  
-- **Database:** PostgreSQL, Supabase, Firebase  
-- **Other:** GitHub Actions, CI/CD, Twilio, REST/GraphQL APIs
+- **Core AI:** Autonomous AI Agents, Voice AI, LLMs, NLP, Speech Recognition
+- **Technologies:** Python, TypeScript, LangChain, OpenAI, Whisper, Docker
+- **Automation & Integration:** Business process automation, QA systems, real-time APIs
+- **Infrastructure:** GPU environments, Cloud integrations, CI/CD pipelines
 
 ---
 
@@ -59,16 +54,16 @@ Currently, I’m building an open-source **AI-first DBMS and reporting engine** 
 
 **University of Wisconsin–Green Bay**  
 Bachelor of Science in Computer Science, 2023  
-Minor: Data Science · Honors Graduate
+Focus: Software Engineering | Honors Graduate
 
 ---
 
-## Let’s Connect
+## Let's Connect
 
-- 🌐 [matraku.dev](https://www.matraku.dev)  
+- 📬 [matratau000@gmail.com](mailto:matratau000@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/taulant-matraku-4a69a5180)  
 - 💬 [GitHub](https://github.com/matratau000)  
-- 📬 taulant [at] matraku.dev
+- 🌐 [matraku.dev](https://www.matraku.dev)
 
 ---
 
